@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.4.1/bin/cmake;-GUnix Makefiles;/Users/connorwiniarczyk/Documents/spring2018/CS205/sockets/build/socket/gtest/src/gtest'
